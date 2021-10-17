@@ -1,0 +1,24 @@
+{
+  "name": "resumebuilder",
+  "version": "1.0.0",
+  "description": "build your customized resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkoo8/ResumeBuilder.git"
+  },
+  "keywords": [
+    "nodejs",
+    "resumebuilder",
+    "hacktoberfest"
+  ],
+  "author": "Mayhem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkoo8/ResumeBuilder/issues"
+  },
+  "homepage": "https://github.com/pkoo8/ResumeBuilder#readme"
+}
